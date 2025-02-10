@@ -207,20 +207,6 @@
   }
 }
 
-@media (max-width: 890px) {
-  .visual {
-    height: 57.6rem;
-  }
-
-  .visual figure img {
-    height: 57.6rem;
-  }
-
-  .visual-text {
-    gap: 0.9rem;
-  }
-}
-
 @media (max-width: 620px) {
   .event-list {
     padding-top: 4rem;
